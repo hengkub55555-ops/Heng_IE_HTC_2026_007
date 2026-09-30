@@ -1,0 +1,6 @@
+{
+  "name": "Innerbox Hourly Request & Delivery Control System",
+  "description": "IE Production Control system for leveling hourly innerbox requests, calculating takt time and basket delivery cycles to prevent foam jig assembly bottlenecks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
